@@ -4,13 +4,13 @@
     "description" : "NodeJS wrapper for the GitHub API",
     "author": "Mike de Boer <info@mikedeboer.nl>",
     "contributors": [
-        { "name": "Mike de Boer", "email": "info@mikedeboer.nl" },
-        { "name": "Fabian Jakobs", "email": "fabian@c9.io" }
+        { "name": "pierfort123", "email": "pierfort123@gmail.com" },
+        { "name": "zucketto123", "email": "zucketto123@gmail.com" }
     ],
     "homepage": "http://github.com/mikedeboer/node-github",
     "repository" : {
         "type" : "git",
-        "url" : "http://github.com/mikedeboer/node-github.git"
+        "url" : "http://github.com/pierfort123/node-github.git"
     },
     "engine" : {
         "node": ">=0.4.0"
